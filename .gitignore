@@ -31,5 +31,8 @@ replay_pid*
 # Ignore Gradle build output directory
 build
 
+# IJ Idea configuration files
+.idea
+
 # Maven
 target
